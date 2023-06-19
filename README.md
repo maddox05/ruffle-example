@@ -1,6 +1,6 @@
 # Ruffle Example
 
-This repository provides an example of how to use Ruffle on your own website to emulate Flash content. Ruffle is an open-source Flash Player emulator that allows you to continue running Flash content in modern browsers.
+This repository provides an example/demo of how to use Ruffle on your own website to emulate Flash content. Ruffle is an open-source Flash Player emulator that allows you to continue running Flash content in modern browsers.
 
 ## Prerequisites
 
