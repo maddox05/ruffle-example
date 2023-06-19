@@ -32,14 +32,14 @@ git clone https://github.com/maddox05/ruffle-example.git
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="language" content="English">
   <title>Ruffle Example</title>
-  <script src="main.js"></script>
+  <script src="main.js"></script> 
   <noscript>Your browser doesn't have JavaScript enabled. Please enable JavaScript or switch to a browser that
     supports it.</noscript>
 </head>
 <body>
 <div id='ruffle' class="gameloc"></div>
-<script src='ruffle/index.js'></script>
-<script id = "gabe">swfobject.embedSWF("/1on1soccer.swf", 'ruffle', 800, 600);</script> 
+<script src='https://maddox05.github.io/ruffle-example/ruffle/index.js'></script> <!-- Theses files should be local -->
+<script id = "gabe">swfobject.embedSWF("https://maddox05.github.io/ruffle-example/1on1soccer.swf", 'ruffle', 800, 600);</script> <!-- Theses files should be local -->
 </body>
 </html>
 
