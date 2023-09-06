@@ -10,3 +10,4 @@ swfobject.embedSWF = function(url, cont, width, height){
 
     player.load({ url: url });
 }
+
