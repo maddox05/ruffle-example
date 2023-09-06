@@ -2,6 +2,10 @@
 
 This repository provides an example/demo of how to use Ruffle on your own website to emulate Flash content. Ruffle is an open-source Flash Player emulator that allows you to continue running Flash content in modern browsers.
 
+Video Explanation: https://www.youtube.com/watch?v=TJXMGNxex24&t=81s
+
+Stack Overflow Question: https://stackoverflow.com/questions/65465492/how-to-embed-ruffle-flash-player-emulator-into-html-file/65693128#65693128
+
 ## Prerequisites
 
 Before getting started, make sure you have the following:
